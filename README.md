@@ -1,7 +1,6 @@
 U.S. Airline Flights Analysis (2010 to 2011)
 
 This Tableau project analyzes U.S. airline flight data from 2010 and 2011 to identify trends in flight activity, delays, cancellations, airports, and airlines.
-Tools
 
 The project answers the following questions:
 1. Why do flight totals appear to drop significantly from 2010 to 2011?
